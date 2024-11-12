@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.682030c4.css",
+    "main.js": "/static/js/main.ee71d793.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/sujit-profile.jpg": "/static/media/sujit-profile.00379e4ecf9bbae0b239.jpg",
+    "static/media/Resume_sujit.pdf": "/static/media/Resume_sujit.429b6fb51ba533eba677.pdf",
+    "static/media/nalco-logo.png": "/static/media/nalco-logo.21f04504ab6aa6b8abcc.png",
+    "index.html": "/index.html",
+    "main.682030c4.css.map": "/static/css/main.682030c4.css.map",
+    "main.ee71d793.js.map": "/static/js/main.ee71d793.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.682030c4.css",
+    "static/js/main.ee71d793.js"
+  ]
+}
